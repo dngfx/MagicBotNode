@@ -21,8 +21,6 @@
   },
   "homepage": "https://github.com/dngfx/MagicBotNode#readme",
   "devDependencies": {
-    "ini": "^4.1.0",
-    "ini-parser": "^0.0.2",
     "irc-framework": "^4.13.1",
     "winston": "^3.8.2"
   }
