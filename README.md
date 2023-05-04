@@ -1,0 +1,2 @@
+# MagicBotNode
+Shh, Secrets BeHere
