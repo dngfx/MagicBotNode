@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/dngfx/MagicBotNode#readme",
   "devDependencies": {
-    "irc-framework": "^4.13.1"
+    "irc-framework": "^4.13.1",
+    "winston": "^3.8.2"
   }
 }
